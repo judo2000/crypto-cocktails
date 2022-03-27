@@ -1,7 +1,7 @@
 # crypto-cocktails
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Descripton
-This repository contains the code for a deployed web app that fetches cocktail recipes and current cryptocurrency prices and icons
+This app uses the coinbase API to allow users to search and view prices of crypto currencies.  It will also display a random cocktail recipe with each search using the cocktaildb API.
 
 
 ## Table of Contents
